@@ -1,3 +1,5 @@
 # Note:
-* python -m venv venv
-* Use "Set-ExecutionPolicy Unrestricted -Scope Process" in terminal to avoid error.
+* Open Terminal and run the following:
+  * python -m venv venv
+  * .\venv\Scripts\Activate.ps1
+  * Set-ExecutionPolicy Unrestricted -Scope Process
