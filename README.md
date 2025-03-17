@@ -1,2 +1,2 @@
 # Paari's Training Area
-  * Temporary comment. To be deleted.
+  * Place for all my training related to AI Agents
